@@ -1,0 +1,1 @@
+../../mutt/.mutt/view-html.sh
